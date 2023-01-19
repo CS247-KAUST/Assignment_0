@@ -1,7 +1,7 @@
 
 # Assignment 0 Description (5% of total grade)
 
-**Due: January 31st**
+**Due: February 2nd**
 
 ----------------------------------
 
